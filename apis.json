@@ -1,0 +1,44 @@
+{
+    "name": "TrakQR",
+    "description": "<p>Headquartered in San Francisco, Tout is a groundbreaking social media platform that combines social networking with the power of video to deliver a revolutionary, conversational experience for users, celebrities and brands. With Tout, users shoot 15-second video status updates via smartphones and webcams, then share their ???Touts??? real-time and automatically to Tout.com, Twitter, Facebook, SMS and email contacts. Through Tout???s reply feature, users can engage in Tout conversations, and with the Tout widget and API, partners can customize the full Tout experience for their own site or app. Tout is a technology spin-out of SRI (Stanford Research Institute). <\/p>\n\n<p>Check us out at www.tout.com, or follow us on Facebook and on Twitter @Tout.<\/p>\n\n<p>In TechCrunch Anthony  Ha wrote that as of March 2012, &#8220;12 million people have visited Tout since it launched, including 3.7 million in the last 30 days. Seventy-five million Touts have been shared overall.&#8221;<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1492_logo.jpg",
+    "tags": [
+        "have api",
+        "qr codes"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/trakqr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "TrakQR",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/1492_logo.jpg",
+            "humanURL": "http:\/\/trakqr.com\/resources\/api\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trakqr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/trakqr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/trakqr.com\/resources\/api\/"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/trakqr"
+        }
+    ]
+}
